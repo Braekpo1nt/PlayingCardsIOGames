@@ -1,0 +1,56 @@
+label,image,score,item-count,item-key
+Black Joker,/img/cards-french/joker-black.svg,50,5,joker-black
+Red Joker,/img/cards-french/joker-red.svg,50,5,joker-red
+Blue Joker,/img/cards-french/joker-blue.svg,50,5,joker-blue
+A of Diamonds,/img/cards-french/diamonds-a.svg,15,5,diamonds-a
+2 of Diamonds,/img/cards-french/diamonds-2.svg,20,5,diamonds-2
+3 of Diamonds,/img/cards-french/diamonds-3.svg,0,5,diamonds-3
+4 of Diamonds,/img/cards-french/diamonds-4.svg,5,5,diamonds-4
+5 of Diamonds,/img/cards-french/diamonds-5.svg,5,5,diamonds-5
+6 of Diamonds,/img/cards-french/diamonds-6.svg,5,5,diamonds-6
+7 of Diamonds,/img/cards-french/diamonds-7.svg,5,5,diamonds-7
+8 of Diamonds,/img/cards-french/diamonds-8.svg,5,5,diamonds-8
+9 of Diamonds,/img/cards-french/diamonds-9.svg,5,5,diamonds-9
+10 of Diamonds,/img/cards-french/diamonds-10.svg,10,5,diamonds-10
+J of Diamonds,/img/cards-french/diamonds-j.svg,10,5,diamonds-j
+Q of Diamonds,/img/cards-french/diamonds-q.svg,10,5,diamonds-q
+K of Diamonds,/img/cards-french/diamonds-k.svg,10,5,diamonds-k
+A of Hearts,/img/cards-french/hearts-a.svg,15,5,hearts-a
+2 of Hearts,/img/cards-french/hearts-2.svg,20,5,hearts-2
+3 of Hearts,/img/cards-french/hearts-3.svg,5,5,hearts-3
+4 of Hearts,/img/cards-french/hearts-4.svg,5,5,hearts-4
+5 of Hearts,/img/cards-french/hearts-5.svg,5,5,hearts-5
+6 of Hearts,/img/cards-french/hearts-6.svg,5,5,hearts-6
+7 of Hearts,/img/cards-french/hearts-7.svg,5,5,hearts-7
+8 of Hearts,/img/cards-french/hearts-8.svg,5,5,hearts-8
+9 of Hearts,/img/cards-french/hearts-9.svg,5,5,hearts-9
+10 of Hearts,/img/cards-french/hearts-10.svg,10,5,hearts-10
+J of Hearts,/img/cards-french/hearts-j.svg,10,5,hearts-j
+Q of Hearts,/img/cards-french/hearts-q.svg,10,5,hearts-q
+K of Hearts,/img/cards-french/hearts-k.svg,10,5,hearts-k
+A of Spades,/img/cards-french/spades-a.svg,15,5,spades-a
+2 of Spades,/img/cards-french/spades-2.svg,20,5,spades-2
+3 of Spades,/img/cards-french/spades-3.svg,5,5,spades-3
+4 of Spades,/img/cards-french/spades-4.svg,5,5,spades-4
+5 of Spades,/img/cards-french/spades-5.svg,5,5,spades-5
+6 of Spades,/img/cards-french/spades-6.svg,5,5,spades-6
+7 of Spades,/img/cards-french/spades-7.svg,5,5,spades-7
+8 of Spades,/img/cards-french/spades-8.svg,5,5,spades-8
+9 of Spades,/img/cards-french/spades-9.svg,5,5,spades-9
+10 of Spades,/img/cards-french/spades-10.svg,10,5,spades-10
+J of Spades,/img/cards-french/spades-j.svg,10,5,spades-j
+Q of Spades,/img/cards-french/spades-q.svg,10,5,spades-q
+K of Spades,/img/cards-french/spades-k.svg,10,5,spades-k
+A of Clubs,/img/cards-french/clubs-a.svg,15,5,clubs-a
+2 of Clubs,/img/cards-french/clubs-2.svg,20,5,clubs-2
+3 of Clubs,/img/cards-french/clubs-3.svg,5,5,clubs-3
+4 of Clubs,/img/cards-french/clubs-4.svg,5,5,clubs-4
+5 of Clubs,/img/cards-french/clubs-5.svg,5,5,clubs-5
+6 of Clubs,/img/cards-french/clubs-6.svg,5,5,clubs-6
+7 of Clubs,/img/cards-french/clubs-7.svg,5,5,clubs-7
+8 of Clubs,/img/cards-french/clubs-8.svg,5,5,clubs-8
+9 of Clubs,/img/cards-french/clubs-9.svg,5,5,clubs-9
+10 of Clubs,/img/cards-french/clubs-10.svg,10,5,clubs-10
+J of Clubs,/img/cards-french/clubs-j.svg,10,5,clubs-j
+Q of Clubs,/img/cards-french/clubs-q.svg,10,5,clubs-q
+K of Clubs,/img/cards-french/clubs-k.svg,10,5,clubs-k
